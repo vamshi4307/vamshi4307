@@ -69,9 +69,6 @@ I’m still discovering the exact career path I want to follow, but I’m active
 ### 💻 Programming & Development
 * Python
 * SQL
-* HTML5
-* CSS3
-* JavaScript
 * Git
 * GitHub
 
