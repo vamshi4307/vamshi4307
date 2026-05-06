@@ -83,24 +83,7 @@ I’m still discovering the exact career path I want to follow, but I’m active
 
 ## 🌟 Featured Projects
 
-### 🤖 AI Learning Project
-A project focused on understanding how AI can be used to solve practical problems using data and logic.
-
-**Tech Used:** Python, AI Concepts
-
----
-
-### 📡 Smart Sensor Project
-A project exploring how sensors can collect real-world data and interact with software systems.
-
-**Tech Used:** Sensors, Data, Automation Concepts
-
----
-
-### 🗄️ SQL Database Project
-A database-focused project demonstrating SQL queries, structured data, and basic data management.
-
-**Tech Used:** SQL, MySQL
+### 🤖 Missile Trajectory Control using PID & Sliding Mode Control (MATLAB Simulink)
 
 ---
 
