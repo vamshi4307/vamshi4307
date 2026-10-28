@@ -1,6 +1,6 @@
 # 🌌 Hi, I'm Vamshi Vardhan Mittapally  
 
-🔥 **AI, Smart Sensors & Actuators Student @ DIT | SQL | Networking | Building Projects**  
+🔥 **AI, Smart Sensors & Actuators Student @ DIT **  
 
 I’m currently studying **AI, Smart Sensors and Actuators** in Germany, exploring how intelligent systems connect with the physical world through data, sensors, automation, and software.
 
